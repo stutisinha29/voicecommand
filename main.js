@@ -44,7 +44,7 @@ function setup() {
  screen_width= window.innerWidth; 
  screen_height= window.innerHeight;
  canvas = createCanvas(screen_width, screen_height-150); 
- canvas.position(120,150); 
+ canvas.position(20,150); 
 }
 
 function draw() {
